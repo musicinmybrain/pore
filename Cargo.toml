@@ -12,7 +12,7 @@ anyhow = "1.0"
 tracing = "^0.1.40"
 
 serde = "1.0"
-serde_yaml = "0.8"
+serde_yaml = "0.9"
 serde_derive = "1.0"
 toml = "0.5"
 
