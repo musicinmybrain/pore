@@ -19,7 +19,7 @@ toml = "1.0"
 regex = "1"
 serde_regex = "1"
 
-quick-xml = "^0.37.0"
+quick-xml = "^0.39.0"
 
 clap = { version = "4.0.32", features = ["derive", "cargo"] }
 maplit = "1.0.2"
