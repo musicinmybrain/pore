@@ -9,7 +9,6 @@ repository = "https://github.com/jmgao/pore"
 
 [dependencies]
 anyhow = "1.0"
-indoc = "1.0"
 tracing = "^0.1.40"
 
 serde = "1.0"
