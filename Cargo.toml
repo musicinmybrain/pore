@@ -35,7 +35,7 @@ filetime = "0.2.19"
 
 git2 = { version = "0.20", features = ["vendored-libgit2"] }
 
-reqwest = { version = "0.11.9", features = ["blocking"] }
+reqwest = { version = "0.13.0", features = ["blocking"] }
 version-compare = "0.1.0"
 
 console = "0.16.0"
