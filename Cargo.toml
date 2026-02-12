@@ -30,7 +30,7 @@ shellexpand = "3.1"
 pathdiff = "0.2.1"
 url = "2.2.2"
 walkdir = "2.3.2"
-fs4 = "^0.9.1"
+fs4 = "0.13"
 filetime = "0.2.19"
 
 git2 = { version = "0.18", features = ["vendored-libgit2"] }
