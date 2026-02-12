@@ -25,8 +25,8 @@ clap = { version = "4.0.32", features = ["derive", "cargo"] }
 maplit = "1.0.2"
 
 chrono = "0.4.19"
-dirs = "4.0.0"
-shellexpand = "2.1.0"
+dirs = "6.0"
+shellexpand = "3.1"
 pathdiff = "0.2.1"
 url = "2.2.2"
 walkdir = "2.3.2"
